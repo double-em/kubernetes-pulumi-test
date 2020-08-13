@@ -1,0 +1,3 @@
+name: kubernetes-pulumi-test
+runtime: dotnet
+description: A test of the pulumi functionality
